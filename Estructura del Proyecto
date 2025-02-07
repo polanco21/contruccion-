@@ -1,0 +1,9 @@
+/proyecto-ingenieria/
+│
+├── index.html
+├── styles.css
+├── images/
+│   ├── logo.png
+│   ├── banner.jpg
+│   └── icono.png
+└── about.html
